@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Amna;Computer+Science+Student;Aspiring+Software+Developer;Learning+AI+%26+Building+Projects" />
+</div>
+
 👋 Hi, I'm Amna
 
 💻 Computer Science Student | Aspiring Software Developer
