@@ -1,53 +1,41 @@
-Hi, I'm Amna! 👋
+👋 Hi, I'm Amna
 
 💻 Computer Science Student | Aspiring Software Developer
 
-I'm a Computer Science student passionate about programming, problem-solving, and learning new technologies. I enjoy building projects and exploring how software works, from frontend interfaces to backend systems.
+I am a Computer Science student who enjoys programming, problem-solving, and exploring new technologies. I love building projects and learning how software works, from frontend interfaces to backend systems.
+
+---
+
+🚀 About Me
 
 - 🎓 Computer Science Student
-- 🌱 Currently learning C++, Python, Java and Machine Learning
-- 🤖 Interested in Artificial Intelligence and Software Development
-- 💡 Love learning new technologies and solving problems
-- 🚀 Building practical projects to improve my skills
+- 🌱 Learning C++, Python, Java and Machine Learning
+- 🤖 Interested in Artificial Intelligence
+- 💡 Enjoy solving programming problems
+- 🔭 Working on practical software projects
+- 🎯 Goal: Become a skilled Software Developer
 
 ---
 
-🛠️ Tech Stack
+🛠️ Languages & Technologies
 
-Programming Languages
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</p>---
 
-"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+📂 My Projects
 
-Database & Tools
-
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
----
-
-📂 Featured Projects
-
-1. Digit Recognition AI
-
-- An AI-based project focused on recognizing handwritten digits.
-- Exploring machine learning and model integration.
-
-2. Online Banking System
-
-- A database project using MongoDB.
-- Includes customer, account and transaction management.
-
-3. Student Information System
-
-- A student management project developed using 8086 Assembly.
-
-4. Sports Event Management System
-
-- A database project involving SQL, relational tables and database concepts.
+Project| Description
+Digit Recognition AI| Handwritten digit recognition using AI
+Online Banking System| Database project using MongoDB
+Student Information System| Student management using Assembly
+Sports Event Management| Database management using SQL
 
 ---
 
@@ -59,9 +47,9 @@ Database & Tools
 
 ---
 
-🌱 My Goal
+🌐 Connect With Me
 
-To become a skilled software developer by continuously learning, building projects, and improving my problem-solving abilities.
+- GitHub: [@Amna8043](https://github.com/am na20-dev)
 
 ---
 
